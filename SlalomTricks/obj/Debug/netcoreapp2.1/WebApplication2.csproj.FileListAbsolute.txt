@@ -1,0 +1,6 @@
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+c:\users\matheus\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs

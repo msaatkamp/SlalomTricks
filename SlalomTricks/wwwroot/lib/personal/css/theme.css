@@ -1,0 +1,22 @@
+.bg-main-color{
+	background-color: #122;
+}
+
+.text-white{
+	color: #FFF;
+}
+
+footer{
+	bottom: 0px;
+	position: fixed;
+	text-align: center;
+
+}
+
+.bg-white{
+	background-color: #FFF;
+}
+
+.bg-black{
+	background-color: #000;
+}
